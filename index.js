@@ -62,14 +62,15 @@ function handleErrors(operator, num1, num2)
     }
     else if (operator == "^")
     {
+        // Convert number to string for comparision
         n2 = num2.toString()
-        // Check if base is negative and exponent is a fraction
+        // Check if base is negative and exponent is a fraction using regex
         if(num1 < 0 && /\d+\.\d+/.test(n2))
         {
             logger.error("Negative exponential error: Base is negative and exponent is a fraction")
             return 4
         }
-        // Check if base is 0 and exponent is a negative fraction
+        // Check if base is 0 and exponent is a negative fraction using regex
         if(num1 == 0 && n2 < 0 && /\d+\.\d+/.test(n2))
         {
             logger.error("Zero exponential error: Base is 0 and exponent is a negative fraction")
