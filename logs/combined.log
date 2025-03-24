@@ -1,0 +1,16 @@
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition: -3 + -0.5 = -3.5","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Exponent: -3 ^ 5 = -243","service":"calculator-microservice"}
+{"level":"info","message":"Exponent: 3 ^ 0.5 = 1.7320508075688772","service":"calculator-microservice"}
+{"level":"info","message":"Exponent: 0 ^ 0.5 = 0","service":"calculator-microservice"}
+{"level":"info","message":"Exponent: 0 ^ 0.5 = 0","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Exponent: 0 ^ 0.5 = 0","service":"calculator-microservice"}
+{"level":"info","message":"Exponent: -10 ^ 5 = -100000","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: -10 % 10 = 0","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: -10 % 15 = -10","service":"calculator-microservice"}
+{"level":"info","message":"Square root: 10 = 3.1622776601683795","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Square root: 10 = 3.1622776601683795","service":"calculator-microservice"}
+{"level":"info","message":"Exponent: 9999 ^ 4 = 9996000599960000","service":"calculator-microservice"}

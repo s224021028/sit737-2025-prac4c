@@ -1,0 +1,6 @@
+{"level":"error","message":"Range exceeded: Input parameters have exceeded min/max range limits","service":"calculator-microservice"}
+{"level":"error","message":"Zero exponential error: Base is 0 and exponent is a negative fraction","service":"calculator-microservice"}
+{"level":"error","message":"Negative exponential error: Base is negative and exponent is a fraction","service":"calculator-microservice"}
+{"level":"error","message":"Zero division: Division by 0 is not possible","service":"calculator-microservice"}
+{"level":"error","message":"Negative square root: Input number is negative","service":"calculator-microservice"}
+{"level":"error","message":"Range exceeded: Input parameters have exceeded min/max range limits","service":"calculator-microservice"}

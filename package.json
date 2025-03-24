@@ -1,0 +1,24 @@
+{
+  "name": "sit737-2025-prac4p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s224021028/sit737-2025-prac4p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s224021028/sit737-2025-prac4p/issues"
+  },
+  "homepage": "https://github.com/s224021028/sit737-2025-prac4p#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "package.json": "^0.0.0",
+    "winston": "^3.17.0"
+  }
+}
