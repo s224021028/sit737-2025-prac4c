@@ -7,14 +7,14 @@ To run this microservice, you need to have the following installed:
 
 ## Installation
 - Clone the repository:
-git clone https://github.com/s224021028/sit737-2025-prac4c.git
+```git clone https://github.com/s224021028/sit737-2025-prac4c.git```
 
 - Install dependencies:
-npm install express winston
+```npm install express winston```
 
 ## Running the Microservice
 Start the server with:
-node index.js
+```node index.js```
 The server will run on port 3000 by default and log a startup message.
 
 ## Testing the Microservice
